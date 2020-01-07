@@ -1,0 +1,9 @@
+Package: DCN
+Type: Package
+Title: Identifying differential co-expression subnetwork
+Version: 1.0
+Date: 2020-01-01
+Author: Wei Liu
+Maintainer: Wei Liu <freelw@qq.com>
+Description: Identification of differential subnetworks from a differential co-expression network.
+License: GPL(>=2)
